@@ -1,0 +1,11 @@
+# Ignore virtual environment
+yolo_venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore PyTorch weights and data
+*.pt
+*.pth
+data/
